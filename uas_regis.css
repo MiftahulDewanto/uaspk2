@@ -1,0 +1,31 @@
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+body {
+    background: url(./img/2.jpeg);
+    background-repeat: repeat-x;
+}
+
+#card {
+    background: #fbfbfb;
+    border-radius: 20px;
+    box-shadow: 20px rgba(189, 19, 27, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px; 
+}
+
+#card-content {
+    padding: 12px 44px;
+    color: rgb(83, 95, 206);
+}
+#card-title {
+    font-family: Bookman, URW Bookman L, serif;
+    letter-spacing: 7px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    text-align: center;
+}
