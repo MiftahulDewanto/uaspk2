@@ -1,0 +1,308 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(54,52,52,1);
+	background-size: cover;
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+menu{
+	height: 30px;
+	text-align: center;
+	background-color: rgba(54,52,52,1);
+	font-family: Bahnschrift;
+	padding-top: 10px;
+}
+menu ul {
+	display: inline-block; 
+	list-style: none;
+}
+menu ul li {
+	text-align: center;
+	float: left;
+}
+menu ul li a{
+	display: block;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	padding: 0px 20px;
+	line-height: 30px
+}
+menu ul li a:hover{
+	background-color: #FFF;
+}
+#Polygon_2 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	left: 537px;
+	top: 499px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_3 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	transform: matrix(1,0,0,1,678,499) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_4 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_4 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	left: 678px;
+	top: 251px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_5 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_5 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	transform: matrix(1,0,0,1,819,251) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_6 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_6 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	left: 916px;
+	top: 333px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_7 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_7 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	transform: matrix(1,0,0,1,916,581) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_8 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_8 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	left: 775px;
+	top: 581px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_9 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_9 {
+	overflow: visible;
+	position: absolute;
+	width: 282px;
+	height: 248px;
+	transform: matrix(1,0,0,1,1057,333) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#download_2 {
+	position: absolute;
+	width: 63px;
+	height: 63px;
+	left: 756px;
+	top: 984px;
+	overflow: visible;
+}
+#n_mifthld {
+	left: 529px;
+	top: 1004px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#n_Miftahul_Dewanto {
+	left: 831px;
+	top: 1004px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#kisspng-gmail-email-computer-i {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1142px;
+	top: 984px;
+	overflow: visible;
+}
+#n_haloh0141gmailcom {
+	left: 1218px;
+	top: 1001px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#download_3 {
+	position: absolute;
+	width: 68px;
+	height: 68px;
+	left: 449px;
+	top: 985px;
+	overflow: visible;
+}
+#n__ALL_ABOUT_M_I_F_T_A_H_U_L__ {
+	left: 220px;
+	top: 236px;
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Hey_My_name_is_Miftahul_Dewant {
+	left: 1260px;
+	top: 627px;
+	position: absolute;
+	overflow: visible;
+	width: 530px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#WhatsApp_Image_2021-09-29_at_1 {
+	position: absolute;
+	width: 247px;
+	height: 255px;
+	left: 837px;
+	top: 413px;
+	overflow: visible;
+}
