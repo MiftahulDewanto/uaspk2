@@ -12,7 +12,7 @@
 	<menu>
 		<ul>
 			<li><a href="">Home</a><li>
-			<li><a href="Web2.html">About</a><li>
+			<li><a href="index1.php">About</a><li>
 			<li><a href="">Portofolio</a><li>
 			<li><a href="">Contact Us</a><li>
 			<li><a href="login.php">Log Out</a></li>	
