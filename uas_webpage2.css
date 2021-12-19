@@ -1,0 +1,505 @@
+menu{
+	height: 30px;
+	text-align: center;
+	background-color: rgba(54,52,52,1);
+	font-family: Bahnschrift;
+	padding-top: 10px;
+}
+menu ul {
+	display: inline-block; 
+	list-style: none;
+}
+menu ul li {
+	text-align: center;
+	float: left;
+}
+menu ul li a{
+	display: block;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	padding: 0px 20px;
+	line-height: 30px
+}
+menu ul li a:hover{
+	background-color: #FFF;
+}
+
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(54,52,52,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+#Polygon_10 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_10 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 4px;
+	left: 536px;
+	top: 743px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_11 {
+	fill: rgba(129,111,100,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_11 {
+	overflow: visible;
+	position: absolute;
+	width: 67px;
+	height: 52px;
+	left: 537px;
+	top: 695px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_5__1 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 116px;
+	top: 166px;
+	overflow: visible;
+}
+#Polygon_12 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_12 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_13 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_13 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,36,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_14 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_14 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,18,34) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_15 {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_15 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 18px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#B_I_O_G_R_A_P_H_Y {
+	left: 188px;
+	top: 186px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Path_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(129,111,100,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 6px rgba(177, 115, 77, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 371px;
+	height: 23px;
+	left: 427.5px;
+	top: 201.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(129,111,100,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	filter: drop-shadow(0px 3px 6px rgba(177, 115, 77, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 371px;
+	height: 23px;
+	left: 1424.5px;
+	top: 200.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#O_R_G_A_N_I_Z_A_T_I_O_N {
+	left: 1121px;
+	top: 187px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#NAME__MIFTAHUL_DEWANTO_PLACE_A {
+	left: 152px;
+	top: 286px;
+	position: absolute;
+	overflow: visible;
+	width: 572px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#n_017_Member_of_Nature_Lover_T {
+	left: 1114px;
+	top: 286px;
+	position: absolute;
+	overflow: visible;
+	width: 647px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#download {
+	position: absolute;
+	width: 165.5px;
+	height: 102.5px;
+	left: 877px;
+	top: 697px;
+	overflow: visible;
+}
+#download_4 {
+	position: absolute;
+	width: 257px;
+	height: 102px;
+	left: 1103px;
+	top: 698px;
+	overflow: visible;
+}
+#S_K_I_L_L_ {
+	left: 799px;
+	top: 598px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Component_5__2 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 1049px;
+	top: 166px;
+	overflow: visible;
+}
+#Polygon_12_bi {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_12_bi {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_13_bj {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_13_bj {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,36,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_14_bk {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_14_bk {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,18,34) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_15_bl {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_15_bl {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 18px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_5__3 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 727px;
+	top: 579px;
+	overflow: visible;
+}
+#Polygon_12_bn {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_12_bn {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_13_bo {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_13_bo {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,36,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_14_bp {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_14_bp {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,18,34) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_15_bq {
+	fill: rgba(177,115,77,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_15_bq {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 34px;
+	left: 18px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(129,111,100,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	filter: drop-shadow(0px 3px 6px rgba(177, 115, 77, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 371px;
+	height: 23px;
+	left: 923.5px;
+	top: 613.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#png-clipart-microsoft-word-com {
+	position: absolute;
+	width: 179px;
+	height: 102px;
+	left: 638px;
+	top: 697px;
+	overflow: visible;
+}
+#n_______________Miftahul_Dewan {
+	left: 835px;
+	top: 1009px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
